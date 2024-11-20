@@ -22,6 +22,7 @@ add_executable(JeuEchecs
     ChessPiece.h
     GameController.h
     Texture.h
+    stb_image.h
 )
 
 # Link libraries
